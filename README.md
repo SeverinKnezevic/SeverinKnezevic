@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @SeverinKnezevic
-Email: knezevicseverin@gmail.com
+
+        Email: knezevicseverin@gmail.com
     
    My CERTIFICATIONS & COURSES:
 * Codecademy:  
