@@ -4,17 +4,17 @@
     
    My CERTIFICATIONS & COURSES:
 * Codecademy:  
-1. Make a Website
-2. Learn SQL
-3. Python
-4. JavaScript
-5. JQuery
-6. HTML&CSS
-7. PHP
+1. Make a Website - (2015.)
+2. Learn SQL      - (2017.)
+3. Python         - (2017.)
+4. JavaScript     - (2017.)
+5. JQuery         - (2017.)
+6. HTML&CSS       - (2015.)
+7. PHP            - (2017.)
 
 * Udemy: 
-1. Learn E-commerce Website in PHP & MySQL From Scratch - (2017.)
-2. Graphic Design Masterclass - Learn GREAT Design - (2021.)
+1. Learn E-commerce Website in PHP & MySQL From Scratch  - (2017.)
+2. Graphic Design Masterclass - Learn GREAT Design       - (2021.)
 
 * Studentski zbor Sveučilišta u Mostaru (engl. Student Union of the University of Mostar) 
 1. Engleski jezik A1 (engl. English language A1) - (2018.)
