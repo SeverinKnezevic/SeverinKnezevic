@@ -4,7 +4,7 @@
     
    My CERTIFICATIONS & COURSES:
 * Codecademy:  
-1. Make a Website - (2015.)
+1. [x] Make a Website - (2015.)
 2. Learn SQL      - (2017.)
 3. Python         - (2017.)
 4. JavaScript     - (2017.)
