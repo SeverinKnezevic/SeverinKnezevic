@@ -15,6 +15,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 5. :1st_place_medal:	JQuery         - (2017.)
 6. :1st_place_medal:	HTML&CSS       - (2015.)
 7. :1st_place_medal:	PHP            - (2017.)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 :trophy: Udemy: 
 1. :1st_place_medal:	Learn E-commerce Website in PHP & MySQL From Scratch  - (2017.)
@@ -23,7 +24,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 :trophy: Studentski zbor Sveučilišta u Mostaru (engl. Student Union of the University of Mostar) 
 1. :1st_place_medal:	Engleski jezik A1 (engl. English language A1) - (2018.)
    
-   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+   
   
    
    
