@@ -4,7 +4,7 @@
 
 <!--Hi,--> I’m @SeverinKnezevic
 
-  💬  Ask me about anything, I am happy to help. <br\>
+  💬  Ask me about anything, I am happy to help. <br/>
   ✉️  knezevicseverin@gmail.com
 
 ## :scroll: My CERTIFICATIONS & COURSES :computer:
