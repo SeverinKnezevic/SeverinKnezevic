@@ -26,10 +26,12 @@
 
 :trophy: Studentski zbor Sveučilišta u Mostaru (engl. Student Union of the University of Mostar) 
 1. :1st_place_medal:	Engleski jezik A1 (engl. English language A1) - (2018.)
-   
+
+****   
  
  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
  
+****
 
   ![Visitor Count](https://profile-counter.glitch.me/severinknezevic/count.svg)
    
