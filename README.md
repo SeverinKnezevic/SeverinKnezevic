@@ -2,6 +2,7 @@
 
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--Hi,--> I’m @SeverinKnezevic
+
 ```
 💬 Ask me about anything, I am happy to help.
 ✉️ knezevicseverin@gmail.com
@@ -26,7 +27,8 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 :trophy: Studentski zbor Sveučilišta u Mostaru (engl. Student Union of the University of Mostar) 
 1. :1st_place_medal:	Engleski jezik A1 (engl. English language A1) - (2018.)
    
-   
+ 
+ <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
   
    
    
