@@ -3,9 +3,8 @@
 <h2> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2> 
 
 <!--Hi,--> I’m @SeverinKnezevic
-
- 💬  Ask me about anything, I am happy to help.
- ✉️  knezevicseverin@gmail.com
+  💬  Ask me about anything, I am happy to help;
+  ✉️  knezevicseverin@gmail.com
 
 ## :scroll: My CERTIFICATIONS & COURSES :computer:
 
