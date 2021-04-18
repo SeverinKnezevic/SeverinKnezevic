@@ -3,10 +3,10 @@
 <h2> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2> 
 
 <!--Hi,--> I’m @SeverinKnezevic
-*
-  💬  Ask me about anything, I am happy to help;
+
+  💬  Ask me about anything, I am happy to help. <\br>
   ✉️  knezevicseverin@gmail.com
-*
+
 ## :scroll: My CERTIFICATIONS & COURSES :computer:
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="430" height="260" />
