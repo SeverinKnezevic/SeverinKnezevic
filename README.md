@@ -23,7 +23,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 :trophy: Studentski zbor Sveučilišta u Mostaru (engl. Student Union of the University of Mostar) 
 1. :1st_place_medal:	Engleski jezik A1 (engl. English language A1) - (2018.)
    
- ![image](https://user-images.githubusercontent.com/81822988/115159767-033f8d80-a095-11eb-8978-b8622b55113a.png)
+   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
    
    
