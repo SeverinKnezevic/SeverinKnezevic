@@ -2,7 +2,7 @@
 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--Hi,--> I’m @SeverinKnezevic
 
-       :email: Email: knezevicseverin@gmail.com
+       :email: knezevicseverin@gmail.com
     
 ## :scroll: My CERTIFICATIONS & COURSES :computer:
 :trophy: Codecademy:  
