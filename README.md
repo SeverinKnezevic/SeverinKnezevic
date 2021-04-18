@@ -7,7 +7,9 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 ✉️ knezevicseverin@gmail.com
 ```    
 ## :scroll: My CERTIFICATIONS & COURSES :computer:
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 :trophy: Codecademy:  
 1. :1st_place_medal:	 Make a Website - (2015.)
 2. :1st_place_medal:	Learn SQL      - (2017.)
