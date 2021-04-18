@@ -4,7 +4,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
         Email: knezevicseverin@gmail.com
     
-## My CERTIFICATIONS & COURSES:
+## :scroll: My CERTIFICATIONS & COURSES :computer:
 :trophy: Codecademy:  
 1. :1st_place_medal:	 Make a Website - (2015.)
 2. :1st_place_medal:	Learn SQL      - (2017.)
