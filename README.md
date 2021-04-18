@@ -1,11 +1,11 @@
 <!-- 👋-->
-Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+```
+##Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!--Hi,--> I’m @SeverinKnezevic
 
 💬 Ask me about anything, I am happy to help.
-
 :email: knezevicseverin@gmail.com
-    
+```    
 ## :scroll: My CERTIFICATIONS & COURSES :computer:
 :trophy: Codecademy:  
 1. :1st_place_medal:	 Make a Website - (2015.)
