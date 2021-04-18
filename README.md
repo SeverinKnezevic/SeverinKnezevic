@@ -1,5 +1,4 @@
-<!-- 👋--> ![image](https://user-images.githubusercontent.com/81822988/115158047-958f6380-a08c-11eb-8119-0d39ed8564e4.png)
-Hi, I’m @SeverinKnezevic
+<!-- 👋--> ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
         Email: knezevicseverin@gmail.com
     
