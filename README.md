@@ -2,7 +2,7 @@
 
 <h2> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2> 
 
-<h2><!--Hi,--> I’m @SeverinKnezevic </h2>
+<h2><!--Hi,--> I’m @SeverinKnezevic 
 
   💬  Ask me about anything, I am happy to help. <br/>
   ✉️  knezevicseverin@gmail.com
