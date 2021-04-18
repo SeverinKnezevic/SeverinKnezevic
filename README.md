@@ -3,6 +3,7 @@ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 <!--Hi,--> I’m @SeverinKnezevic
 
 💬 Ask me about anything, I am happy to help.
+
 :email: knezevicseverin@gmail.com
     
 ## :scroll: My CERTIFICATIONS & COURSES :computer:
