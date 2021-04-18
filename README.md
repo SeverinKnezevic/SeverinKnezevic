@@ -6,7 +6,7 @@
 __I’m @SeverinKnezevic__
 
   💬  Ask me about anything, I am happy to help. <br/>
-  ✉️  knezevicseverin@gmail.com
+  ✉️  _knezevicseverin@gmail.com_
 
 ## :scroll: My CERTIFICATIONS & COURSES :computer:
 
