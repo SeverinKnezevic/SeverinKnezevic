@@ -2,7 +2,7 @@
 
         Email: knezevicseverin@gmail.com
     
-   My CERTIFICATIONS & COURSES:
+## My CERTIFICATIONS & COURSES:
 * Codecademy:  
 1. Make a Website - (2015.)
 2. Learn SQL      - (2017.)
