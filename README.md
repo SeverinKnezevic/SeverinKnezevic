@@ -12,7 +12,7 @@
 <br/>
 ## :scroll: My CERTIFICATIONS & COURSES :computer:
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="430" height="260" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/81822988/115229950-f1e99600-a113-11eb-8549-b36323731f7f.gif" width="430" height="260" />
 
 :trophy: Codecademy:  
 1. :1st_place_medal:	 Make a Website - (2015.)
