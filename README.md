@@ -40,7 +40,7 @@
 
 ****
 <!--  ![Visitor Count](https://profile-counter.glitch.me/severinknezevic/count.svg) -->
- <img height="80" align="right" alt="" width="120" src="https://profile-counter.glitch.me/severinknezevic/count.svg" />
+ <img height="50" align="right" alt="" width="120" src="https://profile-counter.glitch.me/severinknezevic/count.svg" />
 <!--- 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
