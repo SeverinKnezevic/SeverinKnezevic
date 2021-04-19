@@ -2,7 +2,7 @@
 
 <h2> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2> 
 <br/>
-<img align="right" alt="" src="https://user-images.githubusercontent.com/81822988/115206705-27ce5080-a0fb-11eb-9f25-dc753ae9f5a8.jpg" width="430" height="100" /> 
+<img align="right" alt="" src="https://user-images.githubusercontent.com/81822988/115210944-60702900-a0ff-11eb-91d7-1f526e0ee4fe.gif" width="430" height="100" /> 
 
 <!--Hi,--> 
 **I’m @SeverinKnezevic**
