@@ -2,6 +2,7 @@
 
 <h2> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2> 
 
+<img align="right" alt="" src="https://user-images.githubusercontent.com/81822988/115206705-27ce5080-a0fb-11eb-9f25-dc753ae9f5a8.jpg" width="500" height="150" />
 <!--Hi,--> 
 __I’m @SeverinKnezevic__
 
@@ -32,9 +33,9 @@ __I’m @SeverinKnezevic__
  
  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
  
-****
 
-<img align="right" alt="" src="https://user-images.githubusercontent.com/81822988/115206705-27ce5080-a0fb-11eb-9f25-dc753ae9f5a8.jpg" width="500" height="150" />
+
+
 
 ****
   ![Visitor Count](https://profile-counter.glitch.me/severinknezevic/count.svg)
