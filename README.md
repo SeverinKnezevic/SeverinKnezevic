@@ -2,13 +2,13 @@
 
 <h2> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2> 
 
-<img align="right" alt="" src="https://user-images.githubusercontent.com/81822988/115206705-27ce5080-a0fb-11eb-9f25-dc753ae9f5a8.jpg" width="430" height="120" /> <br/>
+<img align="right" alt="" src="https://user-images.githubusercontent.com/81822988/115206705-27ce5080-a0fb-11eb-9f25-dc753ae9f5a8.jpg" width="430" height="120" /> 
 <!--Hi,--> 
 __I’m @SeverinKnezevic__
 
   💬  Ask me about anything, I am happy to help. <br/>
   ✉️  _knezevicseverin@gmail.com_
-
+<br/>
 ## :scroll: My CERTIFICATIONS & COURSES :computer:
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="430" height="260" />
