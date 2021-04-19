@@ -39,8 +39,8 @@
 
 
 ****
-  ![Visitor Count](https://profile-counter.glitch.me/severinknezevic/count.svg)
-   
+<!--  ![Visitor Count](https://profile-counter.glitch.me/severinknezevic/count.svg) -->
+ <img height="120" alt="" width="200" src="https://profile-counter.glitch.me/severinknezevic/count.svg" />
 <!--- 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
