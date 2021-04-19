@@ -34,9 +34,9 @@ __I’m @SeverinKnezevic__
  
 ****
 
-![coverphoto](https://user-images.githubusercontent.com/81822988/115206705-27ce5080-a0fb-11eb-9f25-dc753ae9f5a8.jpg)
+<img align="" alt="" src="https://user-images.githubusercontent.com/81822988/115206705-27ce5080-a0fb-11eb-9f25-dc753ae9f5a8.jpg" width="1000" height="260" />
 
-
+****
   ![Visitor Count](https://profile-counter.glitch.me/severinknezevic/count.svg)
    
 <!--- 
