@@ -27,6 +27,10 @@
 1. :1st_place_medal:	Learn E-commerce Website in PHP & MySQL From Scratch  - (2017.)
 2. :1st_place_medal:	Graphic Design Masterclass - Learn GREAT Design       - (2021.)
 3. :1st_place_medal:  The Complete Oracle SQL Certification Course          - (2021.)
+4. :1st_place_medal:  The Complete PL/SQL Bootcamp: „Beginner to Advanced PL/SQL“  - (2021.)
+5. :1st_place_medal:  JavaScript – The Complete Guide 2022 (Beginner + Advanced)
+6. :1st_place_medal:  Angular – The Complete Guide (2022 Edition).
+
 
 :trophy: Studentski zbor Sveučilišta u Mostaru (engl. Student Union of the University of Mostar) 
 1. :1st_place_medal:	Engleski jezik A1 (engl. English language A1) - (2018.)
