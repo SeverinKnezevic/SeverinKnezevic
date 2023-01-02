@@ -28,7 +28,7 @@
 2. :1st_place_medal:	Graphic Design Masterclass - Learn GREAT Design       - (2021.)
 3. :1st_place_medal:  The Complete Oracle SQL Certification Course          - (2021.)
 4. :1st_place_medal:  The Complete PL/SQL Bootcamp: „Beginner to Advanced PL/SQL“  - (2021.)
-5. :1st_place_medal:  JavaScript – The Complete Guide 2022 (Beginner + Advanced)
+5. :1st_place_medal:  JavaScript – The Complete Guide 2021 (Beginner + Advanced)
 6. :1st_place_medal:  Angular – The Complete Guide (2022 Edition).
 
 
